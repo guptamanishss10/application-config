@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: adminservice
   redis:
     host: 10.1.6.8
     port: 6379
